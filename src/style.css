@@ -62,5 +62,19 @@
   .card img {
     width: 100%;
   }
+
+  button{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 5px;
+
+  }
+
+  .category-name{
+    width: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
   
   
